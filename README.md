@@ -1,5 +1,20 @@
 # Josh Site
-9 Sep 2019
+28 Sep 2019
+
+## Edit Content
+
+* Go to https://github.com/joshfeldstein/joshfeldstein.github.io (password is same as Wifi)
+* Click "_posts" (https://github.com/joshfeldstein/joshfeldstein.github.io/tree/master/_posts)
+* Edit files on that page:
+    * Click the Pencil icon - upper right above your text
+    * Make your changes
+    * At the bottom click "Commit Changes"
+
+After a minute or two the changes should show up automatically at: https://joshfeldstein.github.io
+
+----
+
+## Setup & Test site/server
 
 ### Download Jekyll image
     docker pull jekyll/jekyll
