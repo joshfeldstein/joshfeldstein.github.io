@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+# Josh Site
+9 Sep 2019
 
-You can use the [editor on GitHub](https://github.com/joshfeldstein/joshfeldstein.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Download Jekyll image
+    docker pull jekyll/jekyll
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Launch named instance
+map cwd to /srv/jekyll, map localist port 4000 to container 4000, name the site, remove after process exit, interactive batch
 
-### Markdown
+	docker run -v "$PWD:/srv/jekyll" -p 0.0.0.0:4000:4000 --name jf-news --rm -i -t jekyll/jekyll bash
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Create Site
+jekyll puts default content in `jf-news`
 
-```markdown
-Syntax highlighted code block
+    cd ..
+    jekyll new jf-news
 
-# Header 1
-## Header 2
-### Header 3
+### Copy Custom Content
+Copy Custom Content
 
-- Bulleted
-- List
+    cp about.markdown jf-news
+    cp Articles/* jf-news/_posts
 
-1. Numbered
-2. List
+### Build
+Puts static pages are in jf-news/_site, starts server on [http://localhost:4000/](http://localhost:4000)
 
-**Bold** and _Italic_ and `Code` text
+    cd jf-news
+    jekyll serve
 
-[Link](url) and ![Image](src)
-```
+### Cleanup
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+	jekyll clean
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/joshfeldstein/joshfeldstein.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
