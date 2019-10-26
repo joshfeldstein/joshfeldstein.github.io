@@ -4,7 +4,7 @@ title:  "Buckle Up: NHL Teams Clash for the Cup"
 date:   2019-04-11 20:43:50 -0500
 categories: 
 ---
-Sixteen teams. One champion. The fight for the Stanley Cup has officially begun as each conference’s top eight teams will compete for a spot in the 2019 Stanley Cup Final, possibly having the chance to make or break history.
+Sixteen teams. One champion. The fight for the Stanley Cup has officially begun as each conference’s top eight teams will compete for a spot in the 2019 Stanley Cup Final, possibly having the chance to make history.
 
 As the regular season closes out, the 2019 NHL Playoffs are ready to commence as big name teams like the Tampa Bay Lightning, Nashville Predators and Pittsburgh Penguins look to prove themselves as Cup favorites, while others look to be spoilers. From April to June, the 16 teams who qualify for the playoffs will take place in best-of-seven game series where the first to four wins in the series advances to the next round. There are four rounds en route to a Stanley Cup Championship: The conference quarterfinals, semifinals, conference finals and the Stanley Cup Final.
 
