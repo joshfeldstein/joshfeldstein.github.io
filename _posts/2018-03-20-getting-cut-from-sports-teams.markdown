@@ -10,13 +10,13 @@ Whether it is baseball, football or any other sport, dreams are crushed every se
 
 “Being cut was devastating,” Fechter said. “I shed a couple tears in the tryout room as I was walking out. It was like my dream ended.”
 
-It was one of the toughest moments Fechter had ever had to deal with as he had never gone a day without thinking, watching, or playing the sport of baseball. That was one of the top reasons being cut affected him so much, he had never had the experience.
+It was one of the toughest moments Fechter had ever had to deal with as he had never gone a day without thinking, watching, or playing baseball. That was one of the top reasons being cut affected him so much; he had never had the experience.
 
-Baseball is everything for Benson. He also doesn’t enjoy the free time being cut gave him. He had trouble coping with the fact he had lost a shot at becoming the professional player he dreamed of being. Forget about free time, he just wants to get back out there and show what he’s got to offer.
+Baseball is everything to Benson. He also doesn’t enjoy the free time being cut gave him. He had trouble coping with the fact he had lost a shot at becoming the professional player he dreamed of being. Forget about free time, he just wants to get back out there and show what he’s got to offer.
 
-“I’m transferring to Seton La Salle next year, not only for learning more about the catholic religion, but the chance to fulfill my dream of playing baseball for a living.” Fechter said.
+“I’m transferring to Seton La Salle next year, not only for learning more about the Catholic religion, but the chance to fulfill my dream of playing baseball for a living.” Fechter said.
 
-Fechter growing up and currently always followed Pittsburgh sports teams but of course baseball is what he prefers. He is a die hard fan of the Pittsburgh Pirates and their farm system teams like Indianapolis and Bradenton.
+Fechter has always followed Pittsburgh sports teams but of course baseball is what he prefers. He is a die hard fan of the Pittsburgh Pirates and their farm system teams like Indianapolis and Bradenton.
 
 “I love baseball, in ALL CAPS” Fechter stated.
 
@@ -28,7 +28,7 @@ Fechter wants to be a great student athlete and has had trouble coping with the 
 
 “Nobody in my family really pressures me to do well,” Fechter said,”they also told me not to worry about what anyone else thinks and just play.”
 
-As Fechter and many other student athletes continue their journey to success, there will always be many bumps in the road, and coping with those is the tough part. Whether it is high school or professional, most athletes have to deal with these issues of being let go by their sport. Some players have had easier times bouncing back from others though. With the Mt. Lebanon baseball team, the players are up against a lot of competition and many other successful student athletes.
+As Fechter and many other student athletes continue their journey to success, there will always be many bumps in the road, and coping with those is the tough part. Whether it is high school or professional, most athletes have to deal with these issues of being let go by their sport. Some players have had easier times bouncing back than others. With the Mt. Lebanon baseball team, the players are up against a lot of competition and many other successful student athletes.
 
 “There was three days, hitting, fielding, and pitching,” Fechter said,“There were about 67 who tried out and about 45 players made the team.”
 
