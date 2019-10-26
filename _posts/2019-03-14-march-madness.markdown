@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Bracketology: The Selection Process is Somewhat Scientific" 
+title:  "Bracketology: The Science Behind the Selection" 
 date:   2019-03-14 20:43:50 -0500
 categories: 
 ---
