@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Swimming and Diving"
+title:  "D1 Swimmers and Divers Earn Opportunities to Play at the Next Level"
 date:   2019-02-18 20:43:50 -0500
 categories: 
 ---
@@ -24,7 +24,7 @@ Jorgensen has had quite the success at Kentucky and bringing at top notch recrui
 
 Another senior swimmer, Sophia Donati, is looking forward to the experiences ahead of her as she gets ready to head to the Patriot League powerhouse in Bucknell University, but the whole recruiting process was not easy. In the end, Bucknell’s leadership and teamwork was superior to those of other schools she looked at including University of Delaware, Duquesne and George Washington.
 
-“The team there were very close, and it showed during my visit. It really meant a lot to me to fit in with the team dynamics and be a contributing factor to the team’s success,” Donati said.
+“The team there was very close, and it showed during my visit. It really meant a lot to me to fit in with the team dynamics and be a contributing factor to the team’s success,” Donati said.
 
 Donati set a personal best with a 24.36 second time in the 50 yard freestyle this past December and is currently ranked top 50 in the state. 
 
@@ -38,6 +38,6 @@ Drifting away from the swimming category, the Mt. Lebanon diving program is send
 
 “Yeah, I was actually talking to Pitt and Penn State for diving, and I train at Pitt right now, so I didn’t want anything too familiar,” Johns said. “I wanted a new experience and Penn State just wasn’t the right fit for me and WVU just threw their offer at me.”
 
-Johns has had an amazing experience with the Mt. Lebanon diving program and thanks his past coaches and teammates as he continues his journey in the diving field. Johns knows why West Virginia chose him to be their next big dive,r and he is ready to put in the work and time it takes to be the next Mountaineer legend.
+Johns has had an amazing experience with the Mt. Lebanon diving program and thanks his past coaches and teammates as he continues his journey in the diving field. Johns knows why West Virginia chose him to be their next big diver and he is ready to put in the work and time it takes to be the next Mountaineer legend.
 
 “I feel like the kind of diver West Virginia is getting is someone that will work extremely hard all the time and is going to put in 110 percent effort in everything they do,” Johns said.
