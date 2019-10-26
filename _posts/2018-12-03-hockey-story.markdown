@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hockey Story"
+title:  "16 Seniors Make Season Sweet"
 date:   2018-12-03 20:43:50 -0500
 categories: 
 ---
@@ -22,7 +22,7 @@ Seniors headline this season's Blue Devils team and the veteran players like Hus
 
 “The underclassmen are the future of Lebo Hockey,” Husak said. “Once we leave, they need to start right where we left off.”
 
-These seniors are not only getting these underclassmen adapted to the varsity level, they are targeting the top teams in the league and are still focusing on the task at hand. That task  is hoisting a championship at the end of the season, and this team believes that they can do so.
+These seniors are not only getting these underclassmen adapted to the varsity level, they are targeting the top teams in the league and are still focusing on the task at hand. That task is hoisting a championship at the end of the season, and this team believes it can do so.
 
 “We have a great group of guys full of skill and speed,” Sandora said. “We are all hungry to win this year.”
 
