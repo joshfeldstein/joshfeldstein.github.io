@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Bracketology; The selection process is somewhat scientific" 
+title:  "Bracketology: The Selection Process is Somewhat Scientific" 
 date:   2019-03-14 20:43:50 -0500
 categories: 
 ---
-Unlike the Super Bowl, Stanley Cup Final or World Series, no sports playoff has the implications and money on the line like NCAA’s March Madness. Billions of people around the world fill out brackets every year to predict the winner of one sport’s most prestigious awards in the nation, the National Championship. 
+Unlike the Super Bowl, Stanley Cup Final or World Series, no sports playoff has the implications and money on the line like NCAA’s March Madness. Millions of people around the world fill out brackets every year to predict the winner of one sport’s most prestigious awards in the nation, the National Championship. 
 
 From seeds one to 16, 68 different college teams placed in four different regions all have their eyes on the prize for the NCAA Men's Basketball Tournament national title. 
 
@@ -14,7 +14,7 @@ Tom Burnett, the commissioner of the Southland Conference and member of the NCAA
 
 “During selection week, there may be more than 100 votes by the committee in order to get through the process,” Burnett said.
 
-The Selection Committee has 10 members who throughout the year help determine what NCAA teams will make the field of 68 teams that make the tournament. 32 teams automatically qualify for the tournament by winning their conference, which leaves 36 spots for at-large teams that will be placed elsewhere in the tournament bracket. The lowest an at large seed can be is a 12 seed and the last four teams that get an at-large bid will play in the First Four in Dayton, Ohio. Deciding these bubble teams is a huge decision for Burnett and the rest of the Selection Committee.
+The Selection Committee has 10 members who throughout the year help determine what NCAA teams will make the field of 68 teams that make the tournament. 32 teams automatically qualify for the tournament by winning their conferences, which leaves 36 spots for at-large teams that will be placed elsewhere in the tournament bracket. The lowest an at large seed can be is a 12 seed and the last four teams that get an at-large bid will play in the First Four in Dayton, Ohio. Deciding these bubble teams is a huge decision for Burnett and the rest of the Selection Committee.
 
 “When the committee meets during selection week, this year beginning March 13, each of the 10 members will select the 36 best at-large teams, then the 32 automatic qualifiers will be added for the total field of 68 teams,” Burnett said. “The committee will then develop what it calls the overall seed list, ranking the teams one through 68.”
 
