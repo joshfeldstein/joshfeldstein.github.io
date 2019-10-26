@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Esports Story"
+title:  "Esports Takes the World by Storm"
 date:   2019-01-14 20:43:50 -0500
 categories: 
 ---
-In this decade, smaller sports and recreational activities have taken over America as big name sports associations like the National Football League and the National Basketball Association slowly reel more and more players into their real life game. Despite the immense amount of athletes in the world, there is now a competitive gaming universe taking the world by storm. This is known as the Esports revolution.
+In this decade, smaller sports and recreational activities have taken over America as big name sports associations like the National Football League and the National Basketball Association slowly reel players into their real life game. Despite the immense amount of athletes in the world, there is now a competitive gaming universe taking the world by storm. This is known as the Esports revolution.
 
 Out of the 7.5 billion people on the planet, 2.2 billion play games every day on their PC, MAC or other gaming devices, making up one third of the world's population. Now with enough money and competitors, electronic sports or Esports leagues and tournaments are becoming a worldwide phenomenon that take place all over the globe. Both older and younger generations are taking part in these leagues and tournaments, including Mt. Lebanon junior Valeiry Boystov who started playing video games at the age of 6, gravitating towards competitively-played games like CS:GO and Fortnite.
 
