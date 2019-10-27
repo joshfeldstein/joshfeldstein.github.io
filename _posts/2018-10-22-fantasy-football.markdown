@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Fantasy Football Sends Lebo into a Frenzy"
+title:  "Fantasy Football Sends Lebo Into a Frenzy"
 date:   2018-10-22 20:43:50 -0500
 categories: 
 ---
