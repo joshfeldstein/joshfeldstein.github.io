@@ -4,7 +4,7 @@ title:  "Living Life on the Edge"
 date:   2018-05-25 20:43:50 -0500
 categories: 
 ---
-Dangling on a rope over cliffs. Mountains, and towns seems like an astronomical feat for even the bravest souls, but for former Mt. Lebanon student Finley Conway, he soaks in the thrill and challenge that comes with slack lining.
+Dangling on a rope over cliffs, mountains, and towns seems like an astronomical feat for even the bravest souls, but for former Mt. Lebanon student Finley Conway, he soaks in the thrill and challenge that comes with slack lining.
 
 Slacklining is a tough hobby to pick up, especially since you are balancing all of your body weight on one rope tied from one point to another. All of your weight, strength, and resilience lies on a two inch wide rope that scales across vast cliffs, valleys, and rivers. Slacklining for Conway on the other hand is nothing but a breeze and safety is a number one priority.
 
