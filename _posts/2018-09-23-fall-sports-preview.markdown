@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Fall Sports Preview"
+title:  "Fall Athletes Take Over Lebo"
 date:   2018-09-23 20:43:50 -0500
 categories: 
 ---
 It’s safe to say that the best part of the year is commencing as many sports in Mt. Lebanon and on the national level are starting to move into full swing. Football, soccer, field hockey, cross country, women’s tennis and women’s volleyball are all underway as Lebo looks to bring some more WPIAL Championships home this upcoming season. 
 
-Some teams will be taking on new schools from across the county while the football, soccer, field hockey, women's tennis and volleyball teams take on long-time rival and neighbor Upper St. Clair. Players are also looking to make a name for themselves this year and trying to push to get scholarships for their respective sport. Each team’s quest for a championship has begun.
+Some teams will be taking on new schools from across the county while the football, soccer, field hockey, women's tennis and volleyball teams take on long-time rival and neighbor Upper St. Clair. Players are also looking to make a name for themselves this year and trying to push to get scholarships for their respective sports. Each team’s quest for a championship has begun.
 
 Following a 38-14 home loss to North Allegheny in the first round of the WPIAL playoffs last season, the football team will look to come back better and stronger with head coach Mike Melnyk. Although last year’s stars like Aidan Cain and Colby Sorsdal have left to go play college football, many open spots are up for grabs, especially for current seniors and juniors and even sophomores and freshman playing on varsity. This includes junior fullback Nick Maloney who is expecting big things this upcoming season.
 
@@ -32,7 +32,7 @@ The women's tennis have also already had several matches. They are lead by head 
 
 “Since it’s my first time on varsity, I’m just looking forward to the experience of it all, especially the matches and tournaments,” Vujevich said.
 
-The team has several key matchups to look out for during the season including games at home against Baldwin and Pine-Richland and games at Upper St. Clair and Bethel Park. They also have several selected dates for section doubles and section singles.
+The team has several key matchups to look out for during the season including matches at home against Baldwin and Pine-Richland and matches at Upper St. Clair and Bethel Park. They also have several selected dates for section doubles and section singles.
 
 “We have a lot of matches leading up [to sectional singles and doubles] that prepare us,” Vujevich said. “We make sure to work on things we need to do so that we don’t mess that up in the important matches.”
 
@@ -40,11 +40,11 @@ Cross-country also has some key meets and events coming up including the PIAA Fo
 
 “I think we have many talented runners on our team, and that we will perform very well,” Deme said. “Our expectations are high as always, but I feel like we could live up to them and have our best season yet.”	
 
-The field hockey team’s season has also started, and they have a pretty tough schedule coming up with games against Taylor Allderdice, Upper St. Clair and Fox Chapel. They will try and pick up some big wins this season and hope for high performance from all the players on their current roster. Junior Sarah Bolt expects big things from the team this season.
+The field hockey team’s season has also started, and they have a pretty tough schedule with games against Taylor Allderdice, Upper St. Clair and Fox Chapel. They will try and pick up some big wins this season and hope for high performance from all the players on their current roster. Junior Sarah Bolt expects big things from the team this season.
 
 “So far everyone has been putting in a ton of work with really great energy,” Bolt said. “I expect us to have a really successful season with a lot of wins.”
 
-The last major fall sport commencing this past month is the women’s volleyball team who has some big games this season at home against Peters Township, Upper St. Clair and Bethel Park and have a lot of veteran junior and senior presence on the roster. This includes junior Caroline Kovalan who is very excited to start another volleyball season 
+The last major fall sport commencing this past month is the women’s volleyball team who has some big games this season at home against Peters Township, Upper St. Clair and Bethel Park; the team also has a lot of veteran junior and senior presence on the roster. This includes junior Caroline Kovalan who is very excited to start another volleyball season 
 
 “So far we have only won one game out of five, but we have been playing hard, and they have all been close games,” Kovalan said. “I think pretty soon there will be a turn, and we’ll start winning more, hopefully enough to go to WPIALS.”
 
