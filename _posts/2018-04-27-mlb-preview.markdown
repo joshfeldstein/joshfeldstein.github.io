@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "2018 MLB Preview"
+title:  "Major League Baseball Goes Into Full Swing"
 date:   2018-04-27 20:43:50 -0500
 categories: 
 ---
 It’s that time of year again! It was a long five months, but baseball is finally back. All 30 teams are off to a fresh start, and the league’s superstars are ready to continue their success alongside new recruits.
 
-With help from eighth grader Jonathan Dietrich and sophomores Willjack Siyman  and Adam Miller, the upcoming season will broken down to deliver all of the information you need as the season commences. Let’s start with the best teams in the league and who will hold up through the year.
+With help from eighth grader Jonathan Dietrich and sophomores Willjack Siyman and Adam Miller, the upcoming season will broken down to deliver all of the information you need as the season commences. Let’s start with the best teams in the league and who will hold up through the year.
 
 “The New York Yankees will finish with the best record in baseball this season,” Siyman said. “They have the most skilled players in Aaron Judge, Giancarlo Stanton and Gary Sanchez.”
 
@@ -20,7 +20,7 @@ Now moving onto to the Most Valuable Player watch. The same big name guys have b
 
 “Bryce Harper will win the NL MVP,” Siyman said. “He is a great team leader and a power hitter.”
 
-The Nationals star is coming off another career year with 24 home runs and 89 RBIs. The crazy thing is Harper is only 25 years old. With this much ahead of him he has the potential to rack up more numbers.
+The Nationals star is coming off of another career year with 24 home runs and 89 RBIs. The crazy thing is Harper is only 25 years old. With this much ahead of him he has the potential to rack up more numbers.
 
 “I think Mike Trout will win the AL MVP,” Miller said.
 
