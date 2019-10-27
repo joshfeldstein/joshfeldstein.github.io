@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "Joker Lives Up to the Hype - Phoenix is Not Joking Around"
+title:  "Joker Lives Up to the Hype"
+subtitle: "Phoenix is Not Joking Around"
 date:   2019-10-17 20:43:50 -0500
 categories: 
 ---
